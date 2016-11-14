@@ -1,0 +1,2 @@
+# RationaleZahlen
+Übungsobjekt zur Objektobjektierung
